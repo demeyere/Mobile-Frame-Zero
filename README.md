@@ -1,23 +1,15 @@
 Mobile-Frame-Zero
 =================
 
-Mobile Frame Zero has been released as Creative Commons, but the PDF does not always work on smaller devices. This project wants to create a `markdown` version of the Rules only (not the story). 
+Mobile Frame Zero has been released as Creative Commons, but the PDF does not always work on smaller devices. (For example, I would love to have a plain text version of the ruleset on my Kindle.) In this project I want to create a `markdown` version of the Mobile Frame Zero Rules only (not the story) to be used to support game play. 
 
-Please support the Mobile Frame Zero people by buying their PDF or Book, but more importantly, play the game.
-
-- - -
-
-Each Rule Chapter will get it's own file.
-
-- - -
+Please support the Mobile Frame Zero people by buying their PDF or Book, and play the game.
 
 Thanks!
 
 --  
 Tristan Meyer  
-970-363-0095  
 Director of Field Operations  
 
 Advanced Frameworks  
-870 Universal PWKY STE 1307, Shield Wall CO 80466  
 http://aframeworks.com/  
