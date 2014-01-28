@@ -13,11 +13,11 @@ Each Rule Chapter will get it's own file.
 
 Thanks!
 
--- 
-Tristan Meyer
-970-363-0095
-Director of Field Operations
+--  
+Tristan Meyer  
+970-363-0095  
+Director of Field Operations  
 
-Advanced Frameworks
-870 Universal PWKY STE 1307, Shield Wall CO 80466
-http://aframeworks.com/
+Advanced Frameworks  
+870 Universal PWKY STE 1307, Shield Wall CO 80466  
+http://aframeworks.com/  
