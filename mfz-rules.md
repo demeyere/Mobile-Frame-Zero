@@ -1,5 +1,5 @@
 ---
-Title: MOBILE FRAME ZERO: RAPID ATTACK
+Title: MOBILE FRAME ZERO\: RAPID ATTACK
 License: continued under the original Creative Commons...
 ---
 
